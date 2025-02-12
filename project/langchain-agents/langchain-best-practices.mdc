@@ -1,0 +1,22 @@
+---
+description: 
+globs: 
+---
+# LangChain Best Practices
+
+Rule for using current best practices during LangChain development.
+
+<rule>
+name: langchain_best_practices
+description: Use current best practices during LangChain development
+
+filter:
+
+actions:
+
+examples:
+
+metadata:
+  priority: high
+  version: 1.0
+</rule>

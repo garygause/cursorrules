@@ -1,12 +1,7 @@
-# cursorrules
-
-Library of cursor rules file for AI development with Cursor.
-
-There are both project specific and global rules.  Project specific rules should be in a directoy called ".cursor/rules" within your project.  All rules should end in ".mdc".
-
-There is even a rule for that:
-
-```
+---
+description: 
+globs: 
+---
 # Cursor Rules Location
 
 Rules for placing and organizing Cursor rule files in the repository.
@@ -78,10 +73,3 @@ metadata:
   priority: high
   version: 1.0
 </rule>
-```
-
-Credit to [Geoffrey Huntley](https://ghuntley.com/author/geoffrey/) for that rule.
-
-## See Also
-
-- [You are using Cursor AI incorrectly...](https://ghuntley.com/stdlib/?utm_source=tldrnewsletter)
